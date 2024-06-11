@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BiaAXzYxcGLjXuUTh0cBiU8vK4+TuPNG1R5nYUAnfginl2rMyzKqINJHXZIpQ24rRnxr2uiE/9OOdXXNE2TnDQ==",
+  "dgSpecHash": "kE4215FZklnn09RZrWa1qne0IDl7hAwgpU9xMHR8Xv/+2DYFZzvhex/KadP3ty89psuACuqR6yo9Pw4oqJg2Bw==",
   "success": true,
   "projectFilePath": "/Users/gaston/Desktop/Turnos/Turnos.csproj",
   "expectedPackageFiles": [
@@ -11,8 +11,8 @@
     "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore/3.1.10/microsoft.entityframeworkcore.3.1.10.nupkg.sha512",
     "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.10/microsoft.entityframeworkcore.abstractions.3.1.10.nupkg.sha512",
     "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.10/microsoft.entityframeworkcore.analyzers.3.1.10.nupkg.sha512",
-    "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.design/3.1.4/microsoft.entityframeworkcore.design.3.1.4.nupkg.sha512",
-    "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.4/microsoft.entityframeworkcore.relational.3.1.4.nupkg.sha512",
+    "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.design/3.1.0/microsoft.entityframeworkcore.design.3.1.0.nupkg.sha512",
+    "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.0/microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512",
     "/Users/gaston/.nuget/packages/microsoft.entityframeworkcore.sqlserver/3.1.0/microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512",
     "/Users/gaston/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.10/microsoft.extensions.caching.abstractions.3.1.10.nupkg.sha512",
     "/Users/gaston/.nuget/packages/microsoft.extensions.caching.memory/3.1.10/microsoft.extensions.caching.memory.3.1.10.nupkg.sha512",
